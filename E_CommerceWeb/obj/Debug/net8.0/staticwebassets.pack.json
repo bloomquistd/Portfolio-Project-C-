@@ -1,0 +1,341 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\E_CommerceWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\E_CommerceWeb.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\images\\book.png",
+      "PackagePath": "staticwebassets\\images\\book.png"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\images\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\images\\products\\product-1\\76cf06a2-f925-4954-84d1-f4615aa42177.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-1\\76cf06a2-f925-4954-84d1-f4615aa42177.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\images\\products\\product-1\\de524e70-53ae-4b95-9049-7e6e8d9b0d65.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-1\\de524e70-53ae-4b95-9049-7e6e8d9b0d65.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\images\\products\\product-2\\2117a538-6ffc-413c-859b-d1e18a4c99f1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-2\\2117a538-6ffc-413c-859b-d1e18a4c99f1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\images\\products\\product-2\\6e966922-c375-44a5-9146-f97585733a72.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-2\\6e966922-c375-44a5-9146-f97585733a72.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\images\\products\\product-3\\4633162f-fed6-4a59-8bb1-7fa52ed3e68a.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-3\\4633162f-fed6-4a59-8bb1-7fa52ed3e68a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\images\\products\\product-3\\bfd6eabe-4884-4e2d-a61c-abeb969e371c.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-3\\bfd6eabe-4884-4e2d-a61c-abeb969e371c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\images\\products\\product-4\\b5acd2a9-ae5d-4d92-8dd3-6c8c2bc4b8ab.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4\\b5acd2a9-ae5d-4d92-8dd3-6c8c2bc4b8ab.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\images\\products\\product-4\\d319330b-e9fc-4537-a3a2-44bbc83ed8be.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4\\d319330b-e9fc-4537-a3a2-44bbc83ed8be.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\images\\products\\product-5\\43c28f87-71e2-4219-8534-ced64b81b87e.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-5\\43c28f87-71e2-4219-8534-ced64b81b87e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\images\\products\\product-5\\dcba864a-5da8-4c43-a957-ecdf66d3397e.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-5\\dcba864a-5da8-4c43-a957-ecdf66d3397e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\images\\products\\product-6\\87db4ffd-aeae-4c17-a372-1c5165452ae2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-6\\87db4ffd-aeae-4c17-a372-1c5165452ae2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\images\\products\\product-6\\bc8557df-f4e1-4590-87b5-df870bb78475.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-6\\bc8557df-f4e1-4590-87b5-df870bb78475.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\images\\products\\product-7\\3c315020-8753-4cb5-b2f5-fcffe2014311.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-7\\3c315020-8753-4cb5-b2f5-fcffe2014311.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\js\\company.js",
+      "PackagePath": "staticwebassets\\js\\company.js"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\js\\user.js",
+      "PackagePath": "staticwebassets\\js\\user.js"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Drew\\Documents\\Portfolio Project C#\\E_CommerceWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.E_CommerceWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.E_CommerceWeb.props",
+      "PackagePath": "build\\E_CommerceWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.E_CommerceWeb.props",
+      "PackagePath": "buildMultiTargeting\\E_CommerceWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.E_CommerceWeb.props",
+      "PackagePath": "buildTransitive\\E_CommerceWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

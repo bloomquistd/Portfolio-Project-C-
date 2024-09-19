@@ -1,0 +1,14 @@
+C:\Users\Drew\Documents\Portfolio Project C#\E_Commerce.Models\bin\Debug\net8.0\E_Commerce.Models.deps.json
+C:\Users\Drew\Documents\Portfolio Project C#\E_Commerce.Models\bin\Debug\net8.0\E_Commerce.Models.dll
+C:\Users\Drew\Documents\Portfolio Project C#\E_Commerce.Models\bin\Debug\net8.0\E_Commerce.Models.pdb
+C:\Users\Drew\Documents\Portfolio Project C#\E_Commerce.Models\obj\Debug\net8.0\E_Commerce.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Drew\Documents\Portfolio Project C#\E_Commerce.Models\obj\Debug\net8.0\E_Commerce.Models.AssemblyInfoInputs.cache
+C:\Users\Drew\Documents\Portfolio Project C#\E_Commerce.Models\obj\Debug\net8.0\E_Commerce.Models.AssemblyInfo.cs
+C:\Users\Drew\Documents\Portfolio Project C#\E_Commerce.Models\obj\Debug\net8.0\E_Commerce.Models.csproj.CoreCompileInputs.cache
+C:\Users\Drew\Documents\Portfolio Project C#\E_Commerce.Models\obj\Debug\net8.0\E_Commerce.Models.dll
+C:\Users\Drew\Documents\Portfolio Project C#\E_Commerce.Models\obj\Debug\net8.0\refint\E_Commerce.Models.dll
+C:\Users\Drew\Documents\Portfolio Project C#\E_Commerce.Models\obj\Debug\net8.0\E_Commerce.Models.pdb
+C:\Users\Drew\Documents\Portfolio Project C#\E_Commerce.Models\obj\Debug\net8.0\ref\E_Commerce.Models.dll
+C:\Users\Drew\Documents\Portfolio Project C#\E_Commerce.Models\bin\Debug\net8.0\E_Commerce.Models.runtimeconfig.json
+C:\Users\Drew\Documents\Portfolio Project C#\E_Commerce.Models\obj\Debug\net8.0\E_Commerce.Models.csproj.AssemblyReference.cache
+C:\Users\Drew\Documents\Portfolio Project C#\E_Commerce.Models\obj\Debug\net8.0\E_Commerce.Models.genruntimeconfig.cache

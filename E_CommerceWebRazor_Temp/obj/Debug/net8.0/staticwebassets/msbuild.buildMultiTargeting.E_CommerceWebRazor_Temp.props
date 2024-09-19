@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\E_CommerceWebRazor_Temp.props" />
+</Project>

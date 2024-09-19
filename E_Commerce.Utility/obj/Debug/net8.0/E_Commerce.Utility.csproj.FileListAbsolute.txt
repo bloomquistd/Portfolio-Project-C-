@@ -1,0 +1,12 @@
+C:\Users\Drew\Documents\Portfolio Project C#\E_Commerce.Utility\bin\Debug\net8.0\E_Commerce.Utility.deps.json
+C:\Users\Drew\Documents\Portfolio Project C#\E_Commerce.Utility\bin\Debug\net8.0\E_Commerce.Utility.dll
+C:\Users\Drew\Documents\Portfolio Project C#\E_Commerce.Utility\bin\Debug\net8.0\E_Commerce.Utility.pdb
+C:\Users\Drew\Documents\Portfolio Project C#\E_Commerce.Utility\obj\Debug\net8.0\E_Commerce.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Drew\Documents\Portfolio Project C#\E_Commerce.Utility\obj\Debug\net8.0\E_Commerce.Utility.AssemblyInfoInputs.cache
+C:\Users\Drew\Documents\Portfolio Project C#\E_Commerce.Utility\obj\Debug\net8.0\E_Commerce.Utility.AssemblyInfo.cs
+C:\Users\Drew\Documents\Portfolio Project C#\E_Commerce.Utility\obj\Debug\net8.0\E_Commerce.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Drew\Documents\Portfolio Project C#\E_Commerce.Utility\obj\Debug\net8.0\E_Commerce.Utility.dll
+C:\Users\Drew\Documents\Portfolio Project C#\E_Commerce.Utility\obj\Debug\net8.0\refint\E_Commerce.Utility.dll
+C:\Users\Drew\Documents\Portfolio Project C#\E_Commerce.Utility\obj\Debug\net8.0\E_Commerce.Utility.pdb
+C:\Users\Drew\Documents\Portfolio Project C#\E_Commerce.Utility\obj\Debug\net8.0\ref\E_Commerce.Utility.dll
+C:\Users\Drew\Documents\Portfolio Project C#\E_Commerce.Utility\obj\Debug\net8.0\E_Commerce.Utility.csproj.AssemblyReference.cache
